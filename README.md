@@ -14,19 +14,19 @@
 
 #### Modulo 2
 
-- OOP + Java I: [Pratica Integradora 1](modulo-2/java-i)
+- OOP + Java I: [Pratica Integradora 1](/modulo2/poo_java-i)
 
 - OOP + Java I: _Pratica Integradora 2_
 
-- OOP + Java II: [Pratica Integradora 1](modulo-2/java-ii/pratica-integradora-1)
+- OOP + Java II: [Pratica Integradora 1](/modulo2/poo_java-ii/pratica-integradora-1)
 
-- OOP + Java II: [Pratica Integradora 2](modulo-2/java-ii/pratica-integradora-2)
+- OOP + Java II: [Pratica Integradora 2](/modulo2/poo_java-ii/pratica-integradora-2)
 
-- OOP + Java III: [Pratica Integradora 1](modulo-2/java-iii/exercicio1)
+- OOP + Java III: [Pratica Integradora 1](/modulo2/poo_java-iii/exercicio1)
 
-- OOP + Java III: [Pratica Integradora 1](modulo-2/java-iii/exercicio2)
+- OOP + Java III: [Pratica Integradora 1](/modulo2/poo_java-iii/exercicio2)
 
-- OOP + Java III: [Pratica Integradora 1](modulo-2/java-iii/exercicio3)
+- OOP + Java III: [Pratica Integradora 1](/modulo2/poo_java-iii/exercicio3)
 
 - OOP + Java III: _Pratica Integradora 2_
 
@@ -40,13 +40,13 @@
 
 #### Modulo 3
 
-- Java + Spring I: [Pratica 1 API Numero Romano](modulo-3/java-spring-i/pratica-integradora-1)
+- Java + Spring I: [Pratica 1 API Numero Romano](modulo3/java-spring-i/pratica-integradora-1)
 
 -  Java + Spring I: _Pratica 2 API Codigo Morse_
 
--  Java + Spring II: [Pratica 1 API Idade](modulo-3/java-spring-i/pratica-integradora-1)
+-  Java + Spring II: [Pratica 1 API Idade](modulo3/java-spring-i/pratica-integradora-1)
 
--  Java + Spring II: [Pratica 2 API Esporte e Pessoas (WIP)](modulo-3/java-spring-i/pratica-integradora-2)
+-  Java + Spring II: [Pratica 2 API Esporte e Pessoas (WIP)](modulo3/java-spring-ii/pratica-integradora-2)
 
 -  Java + Spring III: _Pratica 1 API Star Wars_
 
@@ -81,9 +81,9 @@
 
 #### Modulo 6 (Storage Implementation)
 
-- Storage II: [Pratica 1 Api de Joias com JPA e Hibernate](modulo-6/storage-implamentation-ii/joalheria)
+- Storage II: [Pratica 1 Api de Joias com JPA e Hibernate](modulo6/storage-implementation-ii/joalheria)
 
-- Storage III: [Pratica 1 Api de TestCases com JPA e Hibernate](modulo-6/storage-implamentation-iii/tests)
+- Storage III: [Pratica 1 Api de TestCases com JPA e Hibernate](modulo6/storage-implementation-iii/tests)
 
 - Storage III: _Pratica 2 Api de Tutoriais com JPA e Hibernate_
 
